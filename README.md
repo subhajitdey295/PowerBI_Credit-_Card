@@ -24,5 +24,5 @@ Insights:
   ➡ The 40-50 age group contributes the most revenue at 14M.
   ➡ Married customers contribute more revenue(15M) compared to single(13M) or unknown(11M).
   ➡ The most common transaction method is swipe(35M), followed by chip(17M) and online(3M)
-
+  
 
